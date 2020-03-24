@@ -1,0 +1,12 @@
+2020-03-02 10:25:53 INFO  root:121 - start server
+2020-03-02 10:27:00 DEBUG root:133 - server accept client
+2020-03-02 10:27:00 DEBUG root:20 - socket create
+2020-03-02 10:27:00 DEBUG root:23 - reader create
+2020-03-02 10:27:00 DEBUG root:25 - writer create
+2020-03-02 10:27:00 DEBUG root:27 - threade start
+2020-03-02 10:27:11 DEBUG root:133 - server accept client
+2020-03-02 10:27:11 DEBUG root:20 - socket create
+2020-03-02 10:27:11 DEBUG root:23 - reader create
+2020-03-02 10:27:11 DEBUG root:25 - writer create
+2020-03-02 10:27:11 DEBUG root:27 - threade start
+2020-03-02 10:27:35 INFO  root:54 - logLevel setall
